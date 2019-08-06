@@ -1,4 +1,9 @@
 
+@viewport{
+    zoom: 1.0;
+    width: device-width;
+}
+
 .foot{
     position:relative;
     bottom:0px;
