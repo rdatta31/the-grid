@@ -36,8 +36,8 @@
     z-index: 1; 
     top: 0; 
     left: 0;
-    text-align: center:;
-
+    text-align: center;
+    overflow-x: hidden;
 }
 
 .main {
