@@ -67,7 +67,7 @@ img{
 }
 
 /* On bigger screens, where width is more than 800px, change the style of the sidebar (less padding and a smaller font size) */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1600px) {
     .sidenav 
     {width: 32%;
     padding-top: 5%;
